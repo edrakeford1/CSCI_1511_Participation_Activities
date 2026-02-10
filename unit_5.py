@@ -6,6 +6,6 @@ Name: Elijah Drakeford
 Date: Feb 10, 2026
 """
 
-alien_color = 'green'
+alien_color = 'yellow'
 if alien_color == 'green':
     print("The player has earned five points")
